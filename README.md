@@ -1,5 +1,7 @@
 ### Hi, I’m João Leal!
 
+---
+
 A Data Scientist/Machine Learning Engineer passionate about Data Science, Machine Learning, Deep Learning, Software Engineering, and IoT.
 
 ---
